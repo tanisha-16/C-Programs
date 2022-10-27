@@ -26,7 +26,8 @@ int main()
         else
         {
             printf("your weight is not fit");
-        }}
+        }
+    }
         else
         {
             printf("your age is below 18");
